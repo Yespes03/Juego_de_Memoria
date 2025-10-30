@@ -32,4 +32,4 @@ Este proyecto no requiere instalación de dependencias.
 3.  **Jugar:**
     Haz clic en los botones para destapar las cartas e intentar encontrar los pares.
 
-## 👨‍💻 Autor: Alejandro Vargas Cardoso
+## Autor: Alejandro Vargas Cardoso
